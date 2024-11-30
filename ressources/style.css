@@ -1,0 +1,77 @@
+/* Global Styles */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  color: white;
+  background-color: black;
+  text-align: center;
+}
+
+/* Header Section */
+header {
+  padding: 20px;
+}
+
+header h1 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+.download-link {
+  color: #00ff00;
+  text-decoration: none;
+  font-size: 1rem;
+}
+
+.download-link:hover {
+  text-decoration: underline;
+}
+
+/* Phone Display Section */
+.phone-display img {
+  width: 200px;
+  margin: 20px auto;
+}
+
+/* Travel Guide Section */
+.travel-guide {
+  margin: 30px 0;
+}
+
+.travel-guide h2 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.travel-guide p {
+  font-size: 1rem;
+  margin: 10px 0;
+  color: #cccccc;
+}
+
+.travel-guide img {
+  width: 80%;
+  max-width: 600px;
+  border-radius: 8px;
+}
+
+/* Footer Section */
+footer {
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.phone-icon {
+  width: 50px;
+  margin: 10px auto;
+}
+
+footer p {
+  margin: 5px 0;
+}
+
+footer .copyright {
+  font-size: 0.8rem;
+  color: #666666;
+}
